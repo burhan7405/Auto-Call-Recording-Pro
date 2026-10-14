@@ -1,0 +1,6 @@
+{
+  "name": "CallRecorder Pro",
+  "description": "Auto call recording app for Android 10 to 17 with automatic call detection, audio player, smart rules, and call simulation studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
